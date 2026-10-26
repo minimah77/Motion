@@ -1,0 +1,153 @@
+MOTION_RECIPE_PACK - what is in each ZIP
+Extract all ZIPs into the same folder; they merge into one MOTION_RECIPE_PACK folder.
+
+MOTION_RECIPE_PACK_10MB_01.zip  (9.9 MB, 415 files)
+    (pack root): 10 files
+    assets/characters: 7 files
+    assets/characters/robot: 1 files
+    assets/characters/robot/celebrate: 40 files
+    assets/characters/robot/idle: 60 files
+    assets/characters/robot/point_left: 48 files
+    assets/characters/robot/shake: 30 files
+    assets/characters/robot/talk_calm: 36 files
+    assets/characters/robot/talk_energetic: 36 files
+    assets/characters/robot/wave: 54 files
+    assets/cursors: 1 files
+    assets/cursors/png: 24 files
+    assets/cursors/ripple: 42 files
+    assets/cursors/svg: 12 files
+    assets/devices: 1 files
+    assets/devices/png: 10 files
+    assets/devices/svg: 3 files
+
+MOTION_RECIPE_PACK_10MB_02.zip  (9.9 MB, 312 files)
+    assets/devices/png: 30 files
+    assets/devices/svg: 37 files
+    assets/devices_photo: 48 files
+    assets/emoji: 49 files
+    assets/glass: 3 files
+    assets/glass/badges: 18 files
+    assets/glass/cards: 24 files
+    assets/glass/indicators: 50 files
+    assets/glass/pills: 30 files
+    assets/gradients: 19 files
+    assets/icons: 1 files
+    assets/icons/line: 3 files
+
+MOTION_RECIPE_PACK_10MB_03.zip  (9.9 MB, 332 files)
+    assets/gradients: 29 files
+    assets/grain: 8 files
+    assets/icons: 2 files
+    assets/icons/line: 127 files
+    assets/icons/solid: 130 files
+    assets/objects3d: 26 files
+    assets/objects3d/_raw: 2 files
+    assets/overlays: 8 files
+
+MOTION_RECIPE_PACK_10MB_04.zip  (9.9 MB, 110 files)
+    (pack root): 2 files
+    assets/overlays: 40 files
+    assets/scenes: 41 files
+    assets/scenes/_code_fallback: 26 files
+    fonts/IBMPlexSansArabic: 1 files
+
+MOTION_RECIPE_PACK_10MB_05.zip  (9.9 MB, 56 files)
+    assets/scenes: 20 files
+    fonts/IBMPlexSansArabic: 7 files
+    fonts/Lalezar: 2 files
+    fonts/Lora: 9 files
+    fonts/MarkaziText: 5 files
+    fonts/NanumMyeongjo: 3 files
+    fonts/Parastoo: 5 files
+    fonts/PlaypenSansArabic: 1 files
+    fonts/SFArabic: 1 files
+    fonts/Vazirmatn: 1 files
+    Motion_Asset_Library/05_Animated_Motion_Graphics/00_Part_A_Previews_and_Manifest: 2 files
+
+MOTION_RECIPE_PACK_10MB_06.zip  (9.9 MB, 83 files)
+    fonts/NanumMyeongjo: 1 files
+    fonts/PlaypenSansArabic: 8 files
+    fonts/SFArabic: 8 files
+    fonts/Vazirmatn: 9 files
+    Motion_Asset_Library/05_Animated_Motion_Graphics/00_Part_A_Previews_and_Manifest: 12 files
+    Motion_Asset_Library/05_Animated_Motion_Graphics/01_Underlines: 14 files
+    Motion_Asset_Library/05_Animated_Motion_Graphics/02_Arrows_Pointers: 15 files
+    Motion_Asset_Library/06_Frames_HUD_Targets: 5 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/01_Film_Frames: 4 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/02_Viewfinders: 5 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/03_Target_Graphics/standalone: 2 files
+
+MOTION_RECIPE_PACK_10MB_07.zip  (9.9 MB, 47 files)
+    (pack root): 1 files
+    Motion_Asset_Library/06_Frames_HUD_Targets: 3 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/01_Film_Frames: 1 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/03_Target_Graphics: 5 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/03_Target_Graphics/standalone: 3 files
+    Motion_Asset_Library/06_Frames_HUD_Targets/04_HUDs: 5 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/01_Sticker_Outlines: 5 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/02_Glowing_Stickers: 5 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/03_Mini_Labels: 5 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/04_Previews: 1 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/04_Sound_Effect_Lettering: 1 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/05_Documentation: 7 files
+    SFX_PACK: 2 files
+    SFX_PACK/camera_foley: 1 files
+    SFX_PACK/countdown: 2 files
+
+MOTION_RECIPE_PACK_10MB_08.zip  (9.6 MB, 53 files)
+    Motion_Asset_Library/07_Stickers_Labels_SFX/04_Previews: 5 files
+    Motion_Asset_Library/07_Stickers_Labels_SFX/04_Sound_Effect_Lettering: 9 files
+    SFX_PACK: 1 files
+    SFX_PACK/countdown: 10 files
+    SFX_PACK/feedback: 5 files
+    SFX_PACK/impacts: 5 files
+    SFX_PACK/magic: 5 files
+    SFX_PACK/retro_pixel: 2 files
+    SFX_PACK/text: 7 files
+    SFX_PACK/tools: 2 files
+    SFX_PACK/transitions: 2 files
+
+MOTION_RECIPE_PACK_10MB_09.zip  (9.9 MB, 62 files)
+    (pack root): 5 files
+    SFX_PACK/ambience: 1 files
+    SFX_PACK/transitions: 11 files
+    SFX_PACK/ui: 22 files
+    Step5_Motion_Asset_Library/00_Part_C_Previews_and_Manifest: 20 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress: 2 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_Black: 1 files
+
+MOTION_RECIPE_PACK_10MB_10.zip  (9.9 MB, 35 files)
+    (pack root): 3 files
+    Step5_Motion_Asset_Library: 1 files
+    Step5_Motion_Asset_Library/00_Part_C_Previews_and_Manifest: 3 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress: 10 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_Black: 11 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 7 files
+
+MOTION_RECIPE_PACK_10MB_11.zip  (9.6 MB, 11 files)
+    (pack root): 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress: 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_Black: 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 4 files
+    tools: 4 files
+
+MOTION_RECIPE_PACK_10MB_12.zip  (7.6 MB, 3 files)
+    Step5_Motion_Asset_Library/05_Loaders_Progress: 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_Black: 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 1 files
+
+MOTION_RECIPE_PACK_10MB_13.zip  (9.0 MB, 2 files)
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_Black: 1 files
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 1 files
+
+MOTION_RECIPE_PACK_10MB_14.zip  (8.6 MB, 1 files)
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 1 files
+
+MOTION_RECIPE_PACK_10MB_15.zip  (2.7 MB, 1 files)
+    Step5_Motion_Asset_Library/05_Loaders_Progress/Mono_White: 1 files
+
+MOTION_RECIPE_PACK_10MB_16_single_large_file.zip  (11.0 MB, 1 files)
+    Motion_Asset_Library/05_Animated_Motion_Graphics/01_Underlines: 1 files
+
+MOTION_RECIPE_PACK_10MB_17_single_large_file.zip  (14.7 MB, 1 files)
+    Step5_Motion_Asset_Library/05_Loaders_Progress: 1 files
